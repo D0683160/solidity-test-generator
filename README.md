@@ -1,4 +1,4 @@
-# 🛠️ Solidity Test Case Auto Generator / 智能合約測資自動生成器
+# 🛠️ Solidity Test Case Auto Generator | 智能合約測資自動生成器
 
 This is an AI-powered tool that **automatically generates Hardhat-compatible JavaScript unit tests for Solidity smart contracts**, powered by local LLMs via Ollama, with optional RAG enhancement and test coverage analysis.
 
@@ -64,7 +64,7 @@ Open browser at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure | 專案結構
 ```text
 ├── backend/         # FastAPI server & test generation logic
 ├── frontend/        # Streamlit UI
@@ -87,7 +87,8 @@ Please make sure to update tests as appropriate.
 
 ## 🙋‍♂️ Author
 Yi-Huan,Lee  
-GitHub: [https://github.com/D0683160](https://github.com/D0683160)
+- GitHub: [https://github.com/D0683160](https://github.com/D0683160)
+- Email: antoniolee489@gmail.com
 
 ---
 
