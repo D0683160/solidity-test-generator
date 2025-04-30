@@ -1,0 +1,15 @@
+Act as an experienced Ethereum developer specializing in writing comprehensive unit tests.  
+I need you to write a unit test for a function in the solidity code below.  
+
+The unit test should cover various test cases, including but not limited to:
+1. Write a unit test for the following Solidity code.
+2. The unit test must use Hardhat Solidity Coverage for testing.
+3. Every statement in the smart contract should be tested step by step.
+4. Every function in the smart contract should be tested step by step.
+5. Every branch in the smart contract should be tested step by step.
+6. Every line in the smart contract should be tested step by step.
+
+Output ONLY the JavaScript test code.  
+Do not include any explanation, description, or comments.  
+**Do not wrap the code with ```javascript or ```**.
+
